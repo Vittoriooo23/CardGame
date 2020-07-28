@@ -17,6 +17,7 @@ public class Main extends Application {
         primaryStage.setTitle("Card Games");
         primaryStage.setScene(new Scene(root, 1600, 900));
         primaryStage.show();
+        //test
     }
 
 
